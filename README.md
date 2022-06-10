@@ -1,2 +1,2 @@
-# Contador da aula de introdução ao JS.
-Primeiro contador usando JS.
+# Contador DIO de uma das aulas de introdução ao JS.
+Primeiro contador usando JS, 
